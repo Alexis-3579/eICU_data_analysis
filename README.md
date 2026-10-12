@@ -29,7 +29,7 @@ Across all risk groups, fewer patients died than the model predicted (overall ob
 Using a funnel plot, 14 hospitals fell outside the 99.8% Poisson control limits, far more than chance would predict, which suggested overdispersion. An overdispersion φ = 2.19 was then found. After widening the limits to account for this, **164 of 168 hospitals were within the expected range**.
 
 **4. Four outlier hospitals.**
-Two hospitals had higher mortality and two had lower mortality than their peers. They did not differ in APACHE coverage, severity of illness or the share of patients transferred from other hospitals, so these factors do not explain their results. No significant findings can be concluded. 
+Two hospitals had higher mortality and two had lower mortality than the others. No significant difference in APACHE coverage, severity of illness or the share of patients transferred from other hospitals was found, so these factors do not explain their results. No significant findings can be concluded. 
 
 **Limitations:** eICU hospitals are not a random sample of US hospitals; discharge destinations were not examined, so some deaths after transfer out of hospital may be missed; and with only four outliers, the profiling is only descriptive.
 
